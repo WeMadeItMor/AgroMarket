@@ -64,7 +64,7 @@
 								<span class="icon">
 									<i aria-hidden="true" class="fa fa-phone"></i>
 								</span>
-								<span>Contacts</span>
+								<span>Contact</span>
 							</a>
 						</li>
 						<li>
